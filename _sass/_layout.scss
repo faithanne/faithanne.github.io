@@ -124,6 +124,7 @@ pre code.hljs {
     position: relative;
   }
   .logo {
+		text-decoration: none;
     float: left;
     height: 4em;
     @include media ($tablet) {
@@ -135,7 +136,7 @@ pre code.hljs {
       padding-right: 1em;
     }
     span {
-    	font-size: 1.25em;
+    	font-size: 2em;
     }
   }
   nav {

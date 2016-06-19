@@ -16,6 +16,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
+logo-header: fa
 title: Going places
 subtitle: "Near and far."
 email: faith.anne@strieber.org
@@ -28,7 +29,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://faithanne.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+#logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
